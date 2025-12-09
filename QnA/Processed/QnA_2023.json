@@ -1,0 +1,492 @@
+[
+  {
+    "QuestionID": "a44e7b9f-7ed2-49a3-8c42-4e2b9dcf12b9",
+    "Question": "Which organisation is designated as the registration body under the Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022, and what statutory authority confers this role?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0008",
+        "PassageID": "3",
+        "Passage": "3. The Construction Industry Federation is appointed to be the registration body to perform the functions conferred on the registration body by or under the Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022 (No. 15 of 2022)."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "dcdf3180-40e0-47db-943c-1b1577b76055",
+    "Question": "What legal effect is produced by the commencement date specified in Regulation 2 of this Order?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0008",
+        "PassageID": "2",
+        "Passage": "2. This Order shall come into operation on 19 January 2023."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "b3f15232-f5a1-4f26-99e7-8b8f7028a2c2",
+    "Question": "Who is appointed under this Order as Special Adviser to the Minister for Social Protection and what procedural requirement concerning address particulars is satisfied?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0061",
+        "PassageID": "2",
+        "Passage": "2. Pauric McPhillips, particulars of whose address have been deposited at the offices of the Department of Social Protection, is appointed to be a Special Adviser to the Minister for Social Protection, with effect from 17 December."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "d7d95f42-6353-4b6f-8b8c-67f42f47ce2a",
+    "Question": "What statutory authority was used to authenticate the making of this Order and who signed it on behalf of the Government?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0061",
+        "PassageID": "2022",
+        "Passage": "GIVEN under the Official Seal of the Government, 14 February, 2023. LEO VARADKAR, Taoiseach."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "d2857cb1-efb0-4645-b715-b15e3b3e4922",
+    "Question": "What categories of licences and digital models are defined under Regulation 2 of this Order for the purposes of Tailte Éireann’s geospatial operations?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0124",
+        "PassageID": "2",
+        "Passage": "“copyright licence” means a licence granted by Tailte Éireann to produce a copy of a product, specified in Part 1 or 3 of Schedule 2, for a specified purpose; “data licence agreement” means a licence for the use, distribution and access of one or more data sets specified in column 2 of Schedule 3; “DCM” means a Digital Cartographic Model that is a digital representation of the national map where the data is supplied in raster format after cartographic design has been applied; “DLM” means a Digital Landscape Model that is a digital representation of the national map, at different resolutions, where the data is supplied in vector format with no cartographic design applied; “DTM” means a Digital Terrain Model which is a 3 dimensional digital representation of a terrain surface."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "59af3c07-70a8-457f-b33c-3d44c5d819a1",
+    "Question": "According to Regulation 12, what are the financial obligations for a person entering into a data licence agreement with Tailte Éireann, including renewal fees?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0124",
+        "PassageID": "12",
+        "Passage": "12. Subject to Article 13, where a person wishes to enter a data licence agreement with Tailte Éireann, the fee specified in column 3 of Schedule 3 shall be payable to Tailte Éireann in respect of the first year of any such agreement and the fee specified in column 4 of Schedule 3 shall be payable to Tailte Éireann for every subsequent year of such agreement, in respect of the data set specified in column 2 of that Schedule opposite that fee so specified."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "b97ab3e5-ec4e-4f14-8a93-2267823c2ad4",
+    "Question": "What enforcement powers do competent authorities possess under these Regulations to ensure compliance with EU sanctions concerning Iraq?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0127",
+        "PassageID": "5",
+        "Passage": "5. A competent authority in the State, following such consultation as it considers necessary with other competent authorities, for the purposes of the administration and enforcement of these the Council Regulation or Regulations, may give in writing such directions to a person as it sees fit."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "2a61b7f1-9729-4c13-8e9a-cbff10f59c1d",
+    "Question": "What offences and corresponding penalties are established under Regulations 3 and 4 for breaches of the Council Regulation?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0127",
+        "PassageID": "3",
+        "Passage": "3. (1) A person who contravenes a provision of the Council Regulation specified in Part 1 of the Schedule 2 shall be guilty of an offence. (2) A person who contravenes a condition of an authorisation granted under a provision of the Council Regulation specified in Part 2 of the Schedule 2 shall be guilty of an offence."
+      },
+      {
+        "DocumentID": "si-2023-0127",
+        "PassageID": "4",
+        "Passage": "4. A person who is guilty of an offence under Regulation 3 shall be liable - (a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months or both, or (b) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or both."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "f826ed4b-6da2-4b1c-942a-8b9f1195e9e7",
+    "Question": "In what specific circumstances does Regulation 140E provide for continued payment of Domiciliary Care Allowance when a qualified child resides in an institution?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0129",
+        "PassageID": "3",
+        "Passage": "140E. For the purpose of section 186E(3) domiciliary care allowance shall be payable in respect of a qualified child for not more than 26 weeks in a 12 month period, where– (i) immediately after birth, the qualified child, being a child born on or after 1 January 2023, remains in hospital or is transferred to another hospital for medical or other treatment, or (ii) the qualified child is admitted to an institution on a full-time basis for the purpose of receiving medical or other treatment of a temporary nature."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "d19b02e0-f0fd-4cb2-bcbf-b9330b44197a",
+    "Question": "What legal amendment does Regulation 3(a) introduce regarding the definition of normal residence for the purposes of Domiciliary Care Allowance eligibility?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0129",
+        "PassageID": "3",
+        "Passage": "“(5) Notwithstanding any other provision in this Chapter or the Act, where article 140E applies, a qualified child shall be regarded as normally residing with the qualified person, and the qualified person shall be regarded as providing for the care of the child.”"
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "e61b08c3-1a6c-41ce-8b2c-217fca17d6cb",
+    "Question": "How do these Regulations modify the treatment of income from renting out a room under the Social Welfare framework, and what is the duration of the disregard?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0160",
+        "PassageID": "EXPL",
+        "Passage": "The Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 10) (Income Disregard) Regulations 2022 (S.I. No. 397 of 2022) provide that income received (up to a maximum of €269.23 weekly which equates to €14,000 per annum) by a person from renting out a room in their home to a person who is not an employee or an immediate family member will be disregarded in the assessment of means for the purposes of weekly social assistance payments, increases for qualified adults and the Working Family Payment. Article 3(2) of those Regulations provides for a cessation of that disregard with effect from 17 March 2023. These Regulations extend the duration of the disregard until 17 March 2025."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "c413eb9c-b601-4e65-a9a7-236af2468721",
+    "Question": "Which provisions of the Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 are amended, and what specific date governs the cessation of the income disregard?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0160",
+        "PassageID": "2",
+        "Passage": "2. (1) The Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 (S.I. No. 142 of 2007) are amended- (a) in paragraph (i) of article 8(3), (inserted by article 3(b) of the Regulations of 2022), by the insertion after “Subject to” of “the cessation of this disregard on 17 March 2025, and”, (b) in paragraph (i) of article 155, (inserted by article 3(c) of the Regulations of 2022), by the insertion after “Subject to” of “the cessation of this disregard on 17 March 2025, and”, and (c) in paragraph (o) of article 174, (inserted by article 3(d) of the Regulations of 2022), by the insertion after “Subject to” of “the cessation of this disregard on 17 March 2025, and”."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "d9675e2e-d13f-46ee-aed4-8dc868a48e4f",
+    "Question": "What is the legal effect of Regulation 2 in determining when section 15(1) of the Finance (Covid-19 and Miscellaneous Provisions) Act 2022 comes into operation?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0135",
+        "PassageID": "2",
+        "Passage": "2. The 5th day of April 2023 is appointed as the day on which subsection (1) of section 15 of the Finance (Covid-19 and Miscellaneous Provisions) Act 2022 (No. 9 of 2022) shall come into operation."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "8cb7d6a1-fc47-4a90-9d38-d8ffce8c3fcb",
+    "Question": "Which Minister enacted this Commencement Order and under what formal authority was it authenticated?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0135",
+        "PassageID": "2",
+        "Passage": "GIVEN under my Official Seal, 29 March, 2023. MICHAEL MCGRATH, Minister for Finance. Notice of the making of this Statutory Instrument was published in “Iris Oifigiúil” of 31st March, 2023."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "19a6efb9-2b7a-4f85-86dc-5f879bdbcd77",
+    "Question": "How do these Regulations define a 'reverse vending machine' and what legislative cross-reference governs its interpretation?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0250",
+        "PassageID": "3",
+        "Passage": "3. Article 5(1) of the Principal Regulations is amended by inserting the following definition after the definition of “repository”: “reverse vending machine” means a machine for the purpose of accepting in-scope bottles and in-scope containers, reimbursing deposits for each item accepted, and retaining the items accepted for collection, within the meaning of the Separate Collection (Deposit Return Scheme) Regulations 2021 (S.I. No. 599 of 2021)."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "7eecbaf2-c63e-4ea7-a8a7-839fb4e3224a",
+    "Question": "What specific planning and safety conditions must be met for the installation of reverse vending machines under Class 42A?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0250",
+        "PassageID": "2",
+        "Passage": "No reverse vending machine or storage area containing such machines shall be placed on pre-existing disabled persons’ parking bays. No reverse vending machine or associated bollards and signage shall be placed obstructing emergency exits or emergency evacuation paths. No reverse vending machine shall be placed on a footpath or public road and associated bollards and signage shall not obstruct a footpath. No reverse vending machine shall be situated within 20 metres of the curtilage of any house, save with the consent in writing of the owner or occupier thereof. Advertising signage or other advertising material shall not be affixed to, or placed at, the reverse vending machine or storage area containing such machine other than for the purpose of identifying the machine, providing instructions, or contact details of the operator."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "9699ac89-f1ec-49e3-a4de-8f12fa3fcdee",
+    "Question": "What time limit is established by this Order for the duration of the Temporary Business Energy Support Scheme under section 101(1) of the Finance Act 2022?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0257",
+        "PassageID": "2",
+        "Passage": "2. The day referred to in the definition of “specified period” in section 101(1) of the Finance Act 2022 (No. 44 of 2022) as the day on which the period therein referred to shall expire shall be 31 July 2023."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "edb9dd2d-931c-48f5-9108-4512634ee8f8",
+    "Question": "Under what authority was the Finance Act 2022 (Temporary Business Energy Support Scheme) (Specified Period) (No. 2) Order 2023 made, and who executed it?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0257",
+        "PassageID": "2",
+        "Passage": "GIVEN under my Official Seal, 24 May, 2023. MICHAEL MCGRATH, Minister for Finance. Notice of the making of this Statutory Instrument was published in “Iris Oifigiúil” of 26th May, 2023."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "ac64b0a1-b2c3-4226-8b09-bc6ab75056ef",
+    "Question": "According to Regulation 5, what types of activities within the Lower River Shannon Special Area of Conservation require ministerial consent, and what statutory exception applies?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0328",
+        "PassageID": "5",
+        "Passage": "5. (1) Subject to paragraph (2), a person shall not carry out, cause or permit to be carried out or continue to carry out, or assist in carrying out, any activity specified in Schedule 4 within the Special Area of Conservation except with, and in accordance with, consent given by the Minister under Regulation 30 of the Regulations of 2011, upon application in writing to the Minister to carry out the activity. (2) There is no requirement upon a person to obtain the consent of the Minister under paragraph (1) where a proposed activity or continued activity referred to in that paragraph is one that requires consent or consents under one or more of the enactments set out in the Second Schedule to the Regulations of 2011 or under the Planning and Development Acts 2000 to 2015 and the activity is carried out with and in compliance with such consent or consents."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "7cd47bb3-c874-4982-a31e-41b8a4d75556",
+    "Question": "What offences and penalties are created under Regulation 6 of these Regulations, and which authorities may prosecute them?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0328",
+        "PassageID": "6",
+        "Passage": "6. (1) A person who carries out, causes or permits to be carried out, or assists in the carrying out of an activity referred to in Regulation 5(1), without a consent or otherwise than in accordance with a consent given by the Minister under Regulation 30 of the Regulations of 2011, commits an offence and is liable - (a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months, or both, or (b) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years, or both. (3) Proceedings for an offence under paragraph (1) may be brought summarily by the Minister, the public authority concerned, or a member of the Garda Síochána."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "a7c47dc3-24b2-48f4-bb7a-8dd2d2f3c7e2",
+    "Question": "What authority is responsible for appointing the Returning Officer and under what conditions must conflicts of interest be managed during the election process?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0358",
+        "PassageID": "4",
+        "Passage": "4. (1) The Council shall appoint persons of competence and integrity to act as a Returning Officer and a substitute returning officer, who shall act in the event that the Returning Officer is unable or unavailable to act, for the purpose of each Election. ... (3) The Returning Officer will ensure, insofar as it is possible, that neither he or she, nor any person employed by him or her, has any conflict of interest, and will avoid any perceived conflict of interest, in relation to the running of the Election. Should a conflict of interest arise, in relation to the Returning Officer, he or she will immediately notify the Council and the substitute Returning Officer will take over the running of the Election."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "d7c4f8c2-5936-4b79-9db0-2e42cf57c5d5",
+    "Question": "What procedural powers are granted to the Returning Officer under Regulation 5 to ensure the validity and integrity of the election process?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0358",
+        "PassageID": "5",
+        "Passage": "5. (1) Subject to the provisions of this bye-law, the Returning Officer shall be responsible for determining all questions of procedure, form, or manner in which the Election shall take place and shall have the duty to ensure the validity and integrity of the nomination and Election processes. He or she shall have all powers necessary to carry out such functions, responsibility and duty, and ... shall have the power to make decisions with regard to the qualification or disqualification of candidates, the making of decisions in respect of valid or invalid votes, the conduct of the count, and all other matters which might arise during the course of the Election."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "f3c0d5b5-40c3-4048-bd76-8cc9d1e8ff4f",
+    "Question": "Under the Forestry (Amendment) Regulations 2023, what new publication and appeal procedures are introduced when an environmental impact assessment is deemed unnecessary?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0445",
+        "PassageID": "2",
+        "Passage": "“(4A) Where it has been determined under this regulation that an environmental impact assessment is not required the Minister shall publish that determination together with – (a) the main reasons for not requiring such an assessment with reference to the criteria listed in Schedule 3, and (b) where proposed by the developer, any features of the project and measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment. (4B) A determination under this regulation that an environmental impact assessment is not required may be appealed to the Forestry Appeals Committee in accordance with section 14A(4) of the Agriculture Appeals Act 2001 as part of the grounds of appeal upon which an appeal is made in respect of the licencing decision concerned.”"
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "fae43e9c-31d8-4d9b-8802-d8cb9447e703",
+    "Question": "What procedural restriction is added to applications for High Court review under Regulation 17 of the Forestry Regulations 2017 as amended?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0445",
+        "PassageID": "2.17",
+        "Passage": "“(6) An application to the High Court to review a decision in accordance with this section shall only be made where an applicant has first exercised their right to appeal a decision to the Forestry Appeals Committee in accordance with section 14A(4) of the Agriculture Appeals Act 2001.”"
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "ad7877c3-92cf-421b-b96c-dfe7c11b9f3b",
+    "Question": "What statutory provisions are brought into force by the Competition (Amendment) Act 2022 (Commencement) Order 2023 and on what date?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0448",
+        "PassageID": "2",
+        "Passage": "2. The 27th day of September 2023 is appointed as the day on which the Competition (Amendment) Act 2022 (No. 12 of 2022), other than section 26, shall come into operation."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "28e7b5de-2a7d-48bb-ae82-2d4efc1de292",
+    "Question": "Who signed the Competition (Amendment) Act 2022 (Commencement) Order 2023 and under what ministerial authority was it enacted?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0448",
+        "PassageID": "2",
+        "Passage": "GIVEN under my Official Seal, 13 September, 2023. SIMON COVENEY, Minister for Enterprise, Trade and Employment."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "be48f13b-f9c1-4cf8-a6eb-3b274b60d125",
+    "Question": "What new powers are granted to the High Court under the amended Order 19 Rules 27 and 28 of the Rules of the Superior Courts?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0456",
+        "PassageID": "28",
+        "Passage": "The Court may, on an application by motion on notice, strike out any claim or part of a claim which discloses no reasonable cause of action, amounts to an abuse of the process of the Court, is bound to fail, or has no reasonable chance of succeeding. The Court may also strike out any defence or part of a defence on the same grounds, and may make such orders as to judgment or costs as it considers just."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "91a47a3f-c32d-4eac-a6c4-9dc6a3b153b7",
+    "Question": "According to the explanatory note of S.I. No. 456 of 2023, what procedural purpose does the substitution of Order 19 rules 27 and 28 serve?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0456",
+        "PassageID": "EXPL",
+        "Passage": "These rules amend the Rules of the Superior Courts by the substitution of Order 19, rules 27 and 28 which provide for the High Court’s power to strike out any claim or part of a claim, any defence or part of a defence or any pleading or part of a pleading."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "e02d5b1c-d87e-4a09-a750-f8a94c30e57b",
+    "Question": "Under the District Court (Companies Act 2014: Search Warrants) Rules 2023, what information must be provided by a designated officer when applying for a search warrant?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0457",
+        "PassageID": "SCHEDULE",
+        "Passage": "I am a designated officer within the meaning of section 787(13) of the above-named Act of 2014 designated by the Corporate Enforcement Authority for the purposes of the said Act and duly authorised by the said Authority to lay this information. I have reasonable grounds for suspecting that there is on the premises ... material information within the meaning of section 787 of the said Act, namely: books or documents ... which have not been produced in compliance with that requirement ... or books, documents or other things (including a computer) which I have reasonable grounds for believing may provide evidence of or be related to the commission of an offence under the above-mentioned Act."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "ba18e6a7-0d77-4bc5-bdf5-41e8b28a1e7d",
+    "Question": "What enforcement powers are conferred on designated officers under the search warrant form issued pursuant to section 787 of the Companies Act 2014?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0457",
+        "PassageID": "SCHEDULE",
+        "Passage": "THIS IS TO AUTHORISE ....., of………, a designated officer, within the meaning of section 787(13) of the above-named Act of 2014 so designated by the Corporate Enforcement Authority and duly authorised by the said Authority, accompanied by such other persons as the officer thinks necessary, at any time or times, within 30 days after the date hereof, on production if so requested of this warrant, TO ENTER, if necessary by force, and SEARCH the above named premises ... TO SEIZE and retain any material information found on the premises or in the custody or possession of any person found on the premises and TO TAKE ANY OTHER STEPS which appear to the said designated officer to be necessary for preserving or preventing interference with material information."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "9a3df37f-8f58-49dc-9a67-f078a1de5942",
+    "Question": "Which categories of security service providers are brought under operation by the Commencement Order made under section 37 of the Private Security Services Act 2004?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0473",
+        "PassageID": "3",
+        "Passage": "3. The 29th day of September 2023 is fixed as the day on which section 37 (amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Principal Act comes into operation in respect of an individual - (a) who provides a security service as a door supervisor, ... (b) who provides a security service as a private investigator, or (c) who, as a security guard, provides the security services referred to in paragraph (e) of the definition of “security guard” in section 2(1) of the Principal Act."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "b91cf1ac-cc41-4f58-a36b-7a37a0ff72ef",
+    "Question": "Under what statutory authority is the Minister empowered to issue the Commencement Order bringing section 37 of the Private Security Services Act 2004 into operation?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0473",
+        "PassageID": "3",
+        "Passage": "GIVEN under my Official Seal, 26 September, 2023. HELEN MCENTEE, Minister for Justice. Notice of the making of this Statutory Instrument was published in “Iris Oifigiúil” of 29th September, 2023."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "ba9c6d33-d8c2-46c7-9021-745be0af8db2",
+    "Question": "What enforcement powers do competent authorities have under these Regulations concerning EU restrictive measures against Syria?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0516",
+        "PassageID": "6",
+        "Passage": "6. A competent authority in the State, following such consultation as it considers necessary with other competent authorities, for the purposes of the administration and enforcement of the Council Regulation or these Regulations, may give in writing such directions to a person as it sees fit."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "d4eaa908-2c1c-4e3f-9a42-7867fbd22c72",
+    "Question": "What offences and penalties arise for contravening provisions of the Council Regulation as implemented under these Regulations?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0516",
+        "PassageID": "3",
+        "Passage": "3. A person who contravenes a provision of the Council Regulation specified in Part 1 of Schedule 2 shall be guilty of an offence."
+      },
+      {
+        "DocumentID": "si-2023-0516",
+        "PassageID": "5",
+        "Passage": "5. A person who is guilty of an offence under Regulation 3 shall be liable - (a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months or both, or (b) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or both."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "3f451aa7-41a2-4b5c-9a3c-542e52e49ff2",
+    "Question": "Under what circumstances must the Book of Evidence be served within 42 days under the District Court (Service of Book of Evidence) Rules 2023?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0561",
+        "PassageID": "7",
+        "Passage": "7. (1) The documents specified in section 4B(1) of the Act shall be in accordance with Forms 24.3 to 24.7, Schedule B and shall be served personally upon the accused or upon his solicitor, if any, at the earliest opportunity, but shall not, subject to any extension granted by the Court in accordance with section 4B(3) of the Act, be served later than 42 days from the date on which— (i) the accused ... objects to being tried summarily ... or (ii) the Director of Public Prosecutions elects to try the offence on indictment, or (iii) the Court determines that the facts alleged do not constitute a minor offence."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "cf24bdb5-42b8-46df-9987-8e1a2cbbab0a",
+    "Question": "What new form of service and evidentiary certification do these Rules permit for the delivery of the Book of Evidence?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0561",
+        "PassageID": "7",
+        "Passage": "(2) Notwithstanding the provisions of Order 10, service ... may be effected ... (e) by consent of the parties, by sending copies of the documents by electronic means to the accused or the solicitor for the accused. (4) Notwithstanding sub-rule (3), where service has been effected by electronic means in accordance with sub-rule (2)(e), the documents may be lodged with the Clerk ... with a certificate of the person responsible for such service, certifying the date and time of such service and that the documents were accessed by the accused or his or her solicitor."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "31b41848-22ba-4b62-bb68-dfd8698a1b14",
+    "Question": "What specific amendment to the Principal Regulations is made regarding the inclusion of the Nuvaxovid XBB.1.5 COVID-19 vaccine?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0584",
+        "PassageID": "3",
+        "Passage": "3. The Eighth Schedule (as amended by Regulation 3 of the Regulations of 2023) to the Principal Regulations is amended by inserting the following entry: ... Nuvaxovid XBB.1.5 dispersion for injection COVID-19 Vaccine (recombinant, adjuvanted) ... Active immunisation to prevent COVID-19 caused by SARS-CoV2 in individuals 12 years of age and older."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "0b4d3089-bb08-415b-a7f3-382c27e84c72",
+    "Question": "What administrative and clinical conditions govern the administration of the Nuvaxovid XBB.1.5 vaccine under the amended Schedules?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0584",
+        "PassageID": "4",
+        "Passage": "4. The Twelfth Schedule (as amended by Regulation 4 of the Regulations of 2023) ... is amended by inserting the following entry: ... In accordance with the summary of product characteristics of the product administered and/or relevant national guidelines issued by the National Immunisation Advisory Committee."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "b2f6cd55-29de-4898-9a1b-3e51125d7038",
+    "Question": "Under what conditions may a person lawfully perform actions otherwise prohibited by the Council Regulation according to Regulation 4 of these Regulations?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0711",
+        "PassageID": "4",
+        "Passage": "4. Notwithstanding Regulation 3, a person who has received an authorisation under Article 1b, 3(1), 3(2), 4(1) or 4b(1) of the Council Regulation may, subject to compliance with the terms and conditions of such authorisation, do such of the things as are so authorised."
+      }
+    ],
+    "Group": 1
+  },
+  {
+    "QuestionID": "6c3cb6aa-2a59-45db-8b31-02c9a2b79e11",
+    "Question": "What powers are conferred upon competent authorities under Regulation 6 for ensuring compliance and enforcement of the EU restrictive measures concerning the Democratic Republic of the Congo?",
+    "Passages": [
+      {
+        "DocumentID": "si-2023-0711",
+        "PassageID": "6",
+        "Passage": "6. A competent authority in the State, following such consultation as it considers necessary with other competent authorities, for the purposes of the administration and enforcement of the Council Regulation or these Regulations, may give in writing such directions to a person as it sees fit."
+      }
+    ],
+    "Group": 1
+  }
+]
