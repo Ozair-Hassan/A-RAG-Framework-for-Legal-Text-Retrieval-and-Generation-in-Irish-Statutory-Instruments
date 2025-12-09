@@ -1,0 +1,1 @@
+# MSC_AI_A-RAG-Framework-for-Legal-Text-Retrieval-and-Generation-in-Irish-Statutory-Instruments
